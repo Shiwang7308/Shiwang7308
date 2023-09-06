@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shiwang7308&label=Profile%20views&color=0e75b6&style=flat" alt="shiwang7308" /> </p>
 
-- 🌱 I’m currently learning **React.js, typescript, React Native**
+- 🌱 I’m currently learning **React.js, typescript**
 
 - 💬 Ask me about **HTML, CSS , JS, Node.js, Express.js, MongoDB, React.js**
 
