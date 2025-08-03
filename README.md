@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shiwang7308&label=Profile%20views&color=0e75b6&style=flat" alt="shiwang7308" /> </p>
 
-- 🌱 I’m currently working at Cimpress India Pvt Ltd**
+- 🌱 I’m currently working at Cimpress India Pvt Ltd
 
 - 📫 How to reach me **guptashiwang02@gmail.com**
 
