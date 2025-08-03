@@ -1,13 +1,11 @@
 [![MasterHead](https://media.licdn.com/dms/image/D4D16AQGIR8gI6XauLA/profile-displaybackgroundimage-shrink_350_1400/0/1682795949919?e=1690416000&v=beta&t=HEFe7xZPiGdTTVDG7AnGMDo0ButoZvdwXY8L1a7lPtk)]
 <h1 align="center">Hi 👋, I'm Shiwang Gupta</h1>
-<h3 align="center">A passionate Full Stack Web developer from India</h3>
+<h3 align="center">A passionate Software Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shiwang7308&label=Profile%20views&color=0e75b6&style=flat" alt="shiwang7308" /> </p>
 
-- 🌱 I’m currently learning **React.js, typescript**
-
-- 💬 Ask me about **HTML, CSS , JS, Node.js, Express.js, MongoDB, React.js**
+- 🌱 I’m currently working at Cimpress India Pvt Ltd**
 
 - 📫 How to reach me **guptashiwang02@gmail.com**
 
